@@ -2,6 +2,11 @@
 
 ![](./zip.png)
 
+测试环境：
+```
+Windows For Apache Tomcat/8.5.16
+```
+
 ## 0x01 制作目录穿越-恶意压缩文件
 
 代码：
