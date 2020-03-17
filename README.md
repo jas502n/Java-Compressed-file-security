@@ -1,5 +1,7 @@
 # Java-Compressed-file-security java web 压缩文件 安全 漏洞
 
+![](./zip.png)
+
 ## 0x01 制作目录穿越-恶意压缩文件
 
 代码：
